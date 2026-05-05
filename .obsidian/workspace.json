@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "f8c448b1fd7f99a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b8553b82f4304b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47197e7921c7c6b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab9d4200405a0e48",
+    "type": "split",
+    "children": [
+      {
+        "id": "61abdccbd3068f33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c79b103a998b7fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "068e475acc91e0a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1060ceaf83eaa79f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1070e27dc6e2d3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "412f1d418b3a1e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a004fe5af37d1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6a655aa17c5f71a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "be8969414cd9c21e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1dcbfa050d8b1fd7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e9d7a984e9c1c024",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3c79b103a998b7fd",
+  "lastOpenFiles": [
+    "Working/Planning/Prairie House Design",
+    "Working/Scenes",
+    "Working/Planning",
+    "Working/Images",
+    "Working/Characters",
+    "Working/Chapters",
+    "Working",
+    "output",
+    "Deleted Notes",
+    "Book Tools",
+    "Archive",
+    "Working/Planning/Prairie House Design/40 Finals.md",
+    "Working/Planning/Prairie House Design/30 Finals Explanation.md",
+    "Working/Planning/Prairie House Design/20 Pool Jill Cant go.md",
+    "Working/Planning/Prairie House Design/10 Pool.md",
+    "Working/Planning/Prairie House Design/09 Sundays.md",
+    "Working/Planning/Prairie House Design/08 Psych Part 2.md",
+    "Working/Planning/Prairie House Design/07 Psych.md",
+    "Working/Planning/Prairie House Design/06 Clinic Overview.md",
+    "Working/Planning/Prairie House Design/05 I dont like horses.md",
+    "Working/Planning/Prairie House Design/Part 01.md",
+    "Working/Planning/Prairie House Design/03.md",
+    "Working/Planning/Prairie House Design/02.md",
+    "Working/Planning/Prairie House Design/01 The Program.md",
+    "Working/Planning/Prairie House Design/Part 05 THE PRAIRIE HOUSE ARC.md",
+    "Working/Planning/The House Design/Welcome.md"
+  ]
+}
