@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b8553b82f4304b9",
+        "id": "b421ecf6e2ab6bd3",
         "type": "tabs",
         "children": [
           {
-            "id": "47197e7921c7c6b7",
+            "id": "4859d09e79ec4b0c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c79b103a998b7fd",
+  "active": "4859d09e79ec4b0c",
   "lastOpenFiles": [
+    "Working/Planning/Introduction to Medical/Pysch 01.md",
+    "Working/Planning/Introduction to Medical/Medical 01.md",
+    "Working/Planning/Hair Issues/16.md",
+    "Working/Planning/Introduction to Medical",
+    "Working/Planning/Hair Issues/15.md",
+    "Working/Planning/Hair Issues/14.md",
+    "Working/Planning/Hair Issues/13.md",
+    "Working/Planning/Hair Issues/12.md",
+    "Working/Planning/Hair Issues/11.md",
+    "Working/Planning/Hair Issues/10.md",
+    "Working/Planning/Hair Issues/09.md",
+    "Working/Planning/Hair Issues/08.md",
+    "Working/Planning/Hair Issues/07.md",
+    "Working/Planning/Hair Issues/06.md",
+    "Working/Planning/Hair Issues/04.md",
+    "Working/Planning/Hair Issues/05.md",
+    "Working/Planning/Hair Issues/03 More Hair.md",
+    "Working/Planning/Hair Issues/02 Hair Continued.md",
+    "Working/Planning/Hair Issues/01 Hair Issues.md",
+    "Working/Planning/Hair Issues",
     "Working/Planning/Prairie House Design",
     "Working/Scenes",
     "Working/Planning",
@@ -186,9 +206,6 @@
     "Working/Chapters",
     "Working",
     "output",
-    "Deleted Notes",
-    "Book Tools",
-    "Archive",
     "Working/Planning/Prairie House Design/40 Finals.md",
     "Working/Planning/Prairie House Design/30 Finals Explanation.md",
     "Working/Planning/Prairie House Design/20 Pool Jill Cant go.md",
@@ -196,13 +213,6 @@
     "Working/Planning/Prairie House Design/09 Sundays.md",
     "Working/Planning/Prairie House Design/08 Psych Part 2.md",
     "Working/Planning/Prairie House Design/07 Psych.md",
-    "Working/Planning/Prairie House Design/06 Clinic Overview.md",
-    "Working/Planning/Prairie House Design/05 I dont like horses.md",
-    "Working/Planning/Prairie House Design/Part 01.md",
-    "Working/Planning/Prairie House Design/03.md",
-    "Working/Planning/Prairie House Design/02.md",
-    "Working/Planning/Prairie House Design/01 The Program.md",
-    "Working/Planning/Prairie House Design/Part 05 THE PRAIRIE HOUSE ARC.md",
-    "Working/Planning/The House Design/Welcome.md"
+    "Working/Planning/Prairie House Design/06 Clinic Overview.md"
   ]
 }
