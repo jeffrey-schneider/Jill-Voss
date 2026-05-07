@@ -1,5 +1,7 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "baseFontSize": 18,
-  "baseFontSizeAction": true
+  "cssTheme": "",
+  "baseFontSize": 27,
+  "baseFontSizeAction": true,
+  "theme": "moonstone",
+  "textFontFamily": "Arial"
 }
