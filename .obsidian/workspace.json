@@ -4,81 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "5b57ed0fc1237608",
+        "id": "302980aa0ab527d7",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff4f83febe4318e",
+            "id": "1bf6db35a3b4b721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 02/A02C01 Jill Violates Probation/62 Schneider gives final notice to Jill.md",
+                "file": "Act 02/A02C02 Prairie View Home/A02C02.55 Jill returns to the pod.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "62 Schneider gives final notice to Jill"
+              "title": "A02C02.55 Jill returns to the pod"
             }
           },
           {
-            "id": "f024c77a76a9dc68",
+            "id": "6ae1dc3968ccc409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 02/A02C01 Jill Violates Probation/60 Jill meets with Tom.md",
+                "file": "Act 02/A02C02 Prairie View Home/A02C02.55 Jill returns to the pod.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "60 Jill meets with Tom"
+              "title": "A02C02.55 Jill returns to the pod"
             }
           },
           {
-            "id": "aa6c0eadba8dc9c4",
+            "id": "3687ca3410b838bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 02/A02C01 Jill Violates Probation/65 Jill sentenced formally.md",
+                "file": "Act 02/A02C02 Prairie View Home/A02C02.60 Early bedtime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "65 Jill sentenced formally"
+              "title": "A02C02.60 Early bedtime"
             }
           },
           {
-            "id": "2804e1176c7aa868",
+            "id": "de15284a0733815f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 02/A02C01 Jill Violates Probation/70 Back to Tillman.md",
+                "file": "Act 02/A02C02 Prairie View Home/A02C02.65 Haircuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "70 Back to Tillman"
+              "title": "A02C02.65 Haircuts"
             }
           },
           {
-            "id": "67cee8a4a19018bb",
+            "id": "21611559bf646bd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 02/A02C01 Jill Violates Probation/75 Transfer to Prairie View Home.md",
+                "file": "Act 02/A02C02 Prairie View Home/A02C02.70 Return from Haircuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "75 Transfer to Prairie View Home"
+              "title": "A02C02.70 Return from Haircuts"
+            }
+          },
+          {
+            "id": "6a8b2a662aa61660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C02 Prairie View Home/A02C02.75 Jill sits by herself.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C02.75 Jill sits by herself"
+            }
+          },
+          {
+            "id": "663f20ff8245ba58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C02 Prairie View Home/A02C02.55 Jill returns to the pod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C02.55 Jill returns to the pod"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,12 +265,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c79b103a998b7fd",
+  "active": "6a8b2a662aa61660",
   "lastOpenFiles": [
+    "Act 02/A02C02 Prairie View Home/A02C02.70 Return from Haircuts.md",
+    "Act 02/A02C02 Prairie View Home/A02C02.75 Jill sits by herself.md",
+    "Act 02/A02C02 Prairie View Home/A02C02.65 Haircuts.md",
+    "Act 02/A02C02 Prairie View Home/A02C02.60 Early bedtime.md",
+    "Act 02/A02C02 Prairie View Home/A02C02.55 Jill returns to the pod.md",
+    "Act 02/A02C02 Prairie View Home/A02C02.40 Jill Gets Clocked.md",
+    "Act 02/A02C02 Prairie View Home/A02C02.50 Jill meets Dr Tim Carney Supervisor.md",
+    "Act 02/A02C01 Jill Violates Probation/75 Transfer to Prairie View Home.md",
     "Act 02",
     "Act 02/A02C02 Prairie View Home",
     "Act 02/A02C01 Jill Violates Probation/70 Back to Tillman.md",
-    "Act 02/A02C01 Jill Violates Probation/75 Transfer to Prairie View Home.md",
     "Act 02/A02C01 Jill Violates Probation/65 Jill sentenced formally.md",
     "Act 02/A02C01 Jill Violates Probation/62 Schneider gives final notice to Jill.md",
     "Jills Revocation/75 Jill is sentenced.md",
@@ -260,12 +295,6 @@
     "Working/Planning/Jill and Kristie Alone/55 Emotional Culmination.md",
     "Working/Planning/Jill and Kristie Alone/50 I want you in my life.md",
     "Working/Planning/Jill and Kristie Alone/45 Body Acceptance.md",
-    "Working/Planning/Jill and Kristie Alone/40 Kristie assists Jill.md",
-    "Working/Planning/Jill and Kristie Alone/35 Kristie helps.md",
-    "Working/Planning/Jill and Kristie Alone/30 Jill Yolos Almost.md",
-    "Working/Planning/Jill and Kristie Alone/25 Jill confides in Kristie about her body shame..md",
-    "Working/Planning/Jill and Kristie Alone/20 Kristie continues.md",
-    "Working/Planning/Jill and Kristie Alone/15.md",
     "Working/Planning/Jill and Kristie Alone",
     "Act 02/A02C01 Jill Violates Probation",
     "Working/Planning/Introduction to Medical",
@@ -273,7 +302,6 @@
     "Working/Planning/Prairie House Design",
     "Working/Scenes",
     "Working/Planning",
-    "Working/Images",
-    "Working/Characters"
+    "Working/Images"
   ]
 }
