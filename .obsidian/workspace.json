@@ -4,81 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "302980aa0ab527d7",
+        "id": "283cb255816b0683",
         "type": "tabs",
         "children": [
           {
-            "id": "1bf6db35a3b4b721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 02/A02C02 Prairie View Home/A02C02.55 Jill returns to the pod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A02C02.55 Jill returns to the pod"
-            }
-          },
-          {
-            "id": "6ae1dc3968ccc409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 02/A02C02 Prairie View Home/A02C02.55 Jill returns to the pod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A02C02.55 Jill returns to the pod"
-            }
-          },
-          {
-            "id": "3687ca3410b838bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 02/A02C02 Prairie View Home/A02C02.60 Early bedtime.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A02C02.60 Early bedtime"
-            }
-          },
-          {
-            "id": "de15284a0733815f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 02/A02C02 Prairie View Home/A02C02.65 Haircuts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A02C02.65 Haircuts"
-            }
-          },
-          {
-            "id": "21611559bf646bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act 02/A02C02 Prairie View Home/A02C02.70 Return from Haircuts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A02C02.70 Return from Haircuts"
-            }
-          },
-          {
-            "id": "6a8b2a662aa61660",
+            "id": "89415ca425670179",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,21 +22,315 @@
             }
           },
           {
-            "id": "663f20ff8245ba58",
+            "id": "89c5a793fb636a38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 02/A02C02 Prairie View Home/A02C02.55 Jill returns to the pod.md",
+                "file": "Act 02/A02C03 Medical/A02C03.10 Medical Comes to Visit Pod 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A02C02.55 Jill returns to the pod"
+              "title": "A02C03.10 Medical Comes to Visit Pod 1"
+            }
+          },
+          {
+            "id": "6b51aeb2a7d96e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03.15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03.15"
+            }
+          },
+          {
+            "id": "2248da52c43086c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03 Continued.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03 Continued"
+            }
+          },
+          {
+            "id": "33e4d5230cfc6434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03.20 Jill Bumps Into Dr Carney.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03.20 Jill Bumps Into Dr Carney"
+            }
+          },
+          {
+            "id": "e1e9c7ee8e321653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03.25 Jills Write Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03.25 Jills Write Up"
+            }
+          },
+          {
+            "id": "d424ed3cc7e1999e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03.30 Jill meets with Counselor Avery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03.30 Jill meets with Counselor Avery"
+            }
+          },
+          {
+            "id": "a15f2e44b08d1a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03.35 Avery begins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03.35 Avery begins"
+            }
+          },
+          {
+            "id": "546ffe8a45a9ca7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03.40 Voss recalled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03.40 Voss recalled"
+            }
+          },
+          {
+            "id": "d3fe6f1a9788eda1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03.45 Jill steps out.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03.45 Jill steps out"
+            }
+          },
+          {
+            "id": "0ba8c6cbab4afb8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03.50 Jill Starts to mature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03.50 Jill Starts to mature"
+            }
+          },
+          {
+            "id": "c0cd84ff6ead269d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C03 Medical/A02C03.55 Behind the scenes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C03.55 Behind the scenes"
+            }
+          },
+          {
+            "id": "1102dcfde6d9a842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.05 Bad Joke.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.05 Bad Joke"
+            }
+          },
+          {
+            "id": "1a9d4b4bfef7989d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.10 Morning Briefing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.10 Morning Briefing"
+            }
+          },
+          {
+            "id": "8fdfa905b961a5ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.15  GED Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.15  GED Ideas"
+            }
+          },
+          {
+            "id": "ad8d39bc8e1675ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.20 Jill gets an assignment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.20 Jill gets an assignment"
+            }
+          },
+          {
+            "id": "0a747fefd7b2ba56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.25 Avery comes calling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.25 Avery comes calling"
+            }
+          },
+          {
+            "id": "21820b5f0d3660b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.30 The pressure amps up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.30 The pressure amps up"
+            }
+          },
+          {
+            "id": "69b93ed8e2c9637f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.35 Avery meets with Carney.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.35 Avery meets with Carney"
+            }
+          },
+          {
+            "id": "116bc856baeafa50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.40 Avery gets personal and dangerous.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.40 Avery gets personal and dangerous"
+            }
+          },
+          {
+            "id": "ea00036d1251af9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.45 Avery hits some nerves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.45 Avery hits some nerves"
+            }
+          },
+          {
+            "id": "68d65adfb8d563e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 02/A02C04 Reed gets better/A02C04.50 Bang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A02C04.50 Bang"
+            }
+          },
+          {
+            "id": "0f070e5ea675205b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working/Planning/Jill and Kristie Alone/15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -265,43 +489,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a8b2a662aa61660",
+  "active": "0f070e5ea675205b",
   "lastOpenFiles": [
-    "Act 02/A02C02 Prairie View Home/A02C02.70 Return from Haircuts.md",
-    "Act 02/A02C02 Prairie View Home/A02C02.75 Jill sits by herself.md",
-    "Act 02/A02C02 Prairie View Home/A02C02.65 Haircuts.md",
-    "Act 02/A02C02 Prairie View Home/A02C02.60 Early bedtime.md",
-    "Act 02/A02C02 Prairie View Home/A02C02.55 Jill returns to the pod.md",
-    "Act 02/A02C02 Prairie View Home/A02C02.40 Jill Gets Clocked.md",
-    "Act 02/A02C02 Prairie View Home/A02C02.50 Jill meets Dr Tim Carney Supervisor.md",
-    "Act 02/A02C01 Jill Violates Probation/75 Transfer to Prairie View Home.md",
+    "Working/Planning/Jill and Kristie Alone/20 Kristie continues.md",
+    "Working/Planning/Jill and Kristie Alone/25 Jill confides in Kristie about her body shame..md",
+    "Working/Planning/Jill and Kristie Alone/30 Jill Yolos Almost.md",
+    "Working/Planning/Jill and Kristie Alone/10 Kristie talks about loneliness.md",
+    "Working/Planning/Jill and Kristie Alone/05 Jills release.md",
+    "Act 02/A02C04 Reed gets better/A02C04.55 No Mercy.md",
+    "Act 02/A02C04 Reed gets better/A02C04.50 Bang.md",
+    "Act 02/A02C04 Reed gets better/A02C04.45 Avery hits some nerves.md",
+    "Act 02/A02C04 Reed gets better/A02C04.40 Avery gets personal and dangerous.md",
+    "Act 02/A02C04 Reed gets better/A02C04.35 Avery meets with Carney.md",
+    "Act 02/A02C04 Reed gets better/A02C04.30 The pressure amps up.md",
+    "Act 02/A02C04 Reed gets better/A02C04.25 Avery comes calling.md",
+    "Act 02/A02C04 Reed gets better/A02C04.20 Jill gets an assignment.md",
+    "Act 02/A02C04 Reed gets better/A02C04.15  GED Ideas.md",
+    "Act 02/A02C04 Reed gets better/A02C04.10 Morning Briefing.md",
+    "Act 02/A02C04 Reed gets better/A02C04.05 Bad Joke.md",
+    "Act 02/A02C03 Medical/A02C03.60 Go to bed Jill.md",
+    "Act 02/A02C04 Reed gets better",
+    "Act 02/A02C03 Medical/A02C03.55 Behind the scenes.md",
+    "Act 02/A02C03 Medical/A02C03.50 Jill Starts to mature.md",
+    "Act 02/A02C03 Medical/A02C03.45 Jill steps out.md",
+    "Act 02/A02C03 Medical/A02C03.40 Voss recalled.md",
+    "Act 02/A02C03 Medical/A02C03.35 Avery begins.md",
+    "Act 02/A02C03 Medical/A02C03.30 Jill meets with Counselor Avery.md",
+    "Act 02/A02C03 Medical/A02C03.25 Jills Write Up.md",
+    "Act 02/A02C03 Medical/A02C03.20 Jill Bumps Into Dr Carney.md",
+    "Act 02/A02C03 Medical/A02C03 Continued.md",
+    "Act 02/A02C03 Medical",
+    "Act 01",
     "Act 02",
     "Act 02/A02C02 Prairie View Home",
-    "Act 02/A02C01 Jill Violates Probation/70 Back to Tillman.md",
-    "Act 02/A02C01 Jill Violates Probation/65 Jill sentenced formally.md",
-    "Act 02/A02C01 Jill Violates Probation/62 Schneider gives final notice to Jill.md",
-    "Jills Revocation/75 Jill is sentenced.md",
-    "Act 02/A02C01 Jill Violates Probation/60 Jill meets with Tom.md",
-    "Act 02/A02C01 Jill Violates Probation/55 Jill in court.md",
-    "Act 02/A02C01 Jill Violates Probation/50 The Finals Described.md",
-    "Act 02/A02C01 Jill Violates Probation/40 Prairie View House Program Details.md",
-    "Act 02/A02C01 Jill Violates Probation/30 Escalation.md",
-    "Act 02/A02C01 Jill Violates Probation/25 Calendar after jills violation.md",
-    "Act 02/A02C01 Jill Violates Probation/20.md",
-    "Act 02/A02C01 Jill Violates Probation/15 Jills Calendar of Events.md",
-    "Act 02/A02C01 Jill Violates Probation/10 Jill Breaks Curfew.md",
-    "Act 02/A02C01 Jill Violates Probation/005 Jills PVH hearing.md",
-    "Act 02/A02C01 Jill Violates Probation/05 Jills Probation Orders.md",
-    "Working/Planning/Jill and Kristie Alone/55 Emotional Culmination.md",
-    "Working/Planning/Jill and Kristie Alone/50 I want you in my life.md",
-    "Working/Planning/Jill and Kristie Alone/45 Body Acceptance.md",
     "Working/Planning/Jill and Kristie Alone",
     "Act 02/A02C01 Jill Violates Probation",
     "Working/Planning/Introduction to Medical",
     "Working/Planning/Hair Issues",
-    "Working/Planning/Prairie House Design",
-    "Working/Scenes",
-    "Working/Planning",
-    "Working/Images"
+    "Working/Planning/Prairie House Design"
   ]
 }
